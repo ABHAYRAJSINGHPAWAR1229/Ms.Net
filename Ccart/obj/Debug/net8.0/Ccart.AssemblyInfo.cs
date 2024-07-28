@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ccart")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+add9a38f43eac2835d6b4f0cde1940096e53ba02")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ccart")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ccart")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

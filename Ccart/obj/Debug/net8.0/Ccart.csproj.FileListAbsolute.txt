@@ -223,3 +223,4 @@ C:\Users\abhay\source\repos\Ccart\obj\Debug\net8.0\refint\Ccart.dll
 C:\Users\abhay\source\repos\Ccart\obj\Debug\net8.0\Ccart.pdb
 C:\Users\abhay\source\repos\Ccart\obj\Debug\net8.0\Ccart.genruntimeconfig.cache
 C:\Users\abhay\source\repos\Ccart\obj\Debug\net8.0\ref\Ccart.dll
+C:\Users\abhay\source\repos\Ccart\obj\Debug\net8.0\Ccart.sourcelink.json

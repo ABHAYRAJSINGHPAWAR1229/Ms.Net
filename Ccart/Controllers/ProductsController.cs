@@ -4,9 +4,11 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Ccart.Controllers
 {
+    
     public class productsController : Controller
     {
         Product pr = new Product();
+        
         // GET: productsController
         public ActionResult Index()
         {
@@ -35,11 +37,13 @@ namespace Ccart.Controllers
             Product pro = pr.getSingleproduct(id);
             return View(pro);
         }
-
+        static int num = 22;
         // GET: productsController/Create
         public ActionResult Create()
         {
-            return View();
+            pr.Id = num;
+            num++;
+            return View(pr);
         }
 
         // POST: productsController/Create

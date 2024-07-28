@@ -81,8 +81,22 @@ namespace Ccart.Models
             list.Add(new Product { Id = 3, Name = "Nivea Cream", Description = "for facial purpose", Availability = true });
             list.Add(new Product { Id = 4, Name = "Ponds White beauty Cream", Description = "for facial purpose", Availability = true });
             list.Add(new Product { Id = 5, Name = "himami Cream", Description = "for facial purpose", Availability = true });
-
-
+            list.Add(new Product { Id = 6, Name = "Ponds Cream", Description = "for facial purpose", Availability = true });
+            list.Add(new Product { Id = 7, Name = "himalaya Cream", Description = "for facial purpose", Availability = true });
+            list.Add(new Product { Id = 8, Name = "vi-jhon Cream", Description = "for facial purpose", Availability = true });
+            list.Add(new Product { Id = 9, Name = "fair & Lovely Cream", Description = "for facial purpose", Availability = true });
+            list.Add(new Product { Id = 10, Name = "fair & handsome Cream", Description = "for facial purpose", Availability = true });
+            list.Add(new Product { Id = 11, Name = "Honey Almond Cream", Description = "for facial purpose", Availability = true });
+            list.Add(new Product { Id = 12, Name = "lakhme Cream", Description = "for facial purpose", Availability = true });
+            list.Add(new Product { Id = 13, Name = "Boro Line Cream", Description = "for facial purpose", Availability = true });
+            list.Add(new Product { Id = 14, Name = "bioTech Cream", Description = "for facial purpose", Availability = true });
+            list.Add(new Product { Id = 15, Name = "Gold Cream", Description = "for facial purpose", Availability = true });
+            list.Add(new Product { Id = 16, Name = "Fairy Cream", Description = "for facial purpose", Availability = true });
+            list.Add(new Product { Id = 17, Name = "German Cream", Description = "for facial purpose", Availability = true });
+            list.Add(new Product { Id = 18, Name = "Glowness Cream", Description = "for facial purpose", Availability = true });
+            list.Add(new Product { Id = 19, Name = "Panchvati Cream", Description = "for facial purpose", Availability = true });
+            list.Add(new Product { Id = 20, Name = "Nicen Cream", Description = "for facial purpose", Availability = true });
+            list.Add(new Product { Id = 21, Name = "daskil Cream", Description = "for facial purpose", Availability = true });
 
             return list;
         }
