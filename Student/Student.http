@@ -1,0 +1,11 @@
+@Student_HostAddress = http://localhost:5057
+
+GET {{Student_HostAddress}}/student/
+Accept: application/json
+
+###
+
+GET {{Student_HostAddress}}/student/1
+Accept: application/json
+
+###
