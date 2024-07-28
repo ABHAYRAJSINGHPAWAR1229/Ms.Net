@@ -1,0 +1,17 @@
+{
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "product",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://localhost:5193",
+      "nativeDebugging": true,
+      "sqlDebugging": true
+    }
+  },
+  "$schema": "http://json.schemastore.org/launchsettings.json"
+}
